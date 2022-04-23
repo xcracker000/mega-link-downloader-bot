@@ -14,6 +14,12 @@ Please be kind to star and fork this repo!✨😇
 
 ---
 
+### Deploy on Heroku
+
+Press the below button to Fast deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xcracker000/mega-link-downloader-bot)
+
 ## Features 💫
  - Mega accounts are not needed!
  - Uses two download engines for downloading links!
